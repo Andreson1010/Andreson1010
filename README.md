@@ -1,8 +1,7 @@
 Cientista de Dados 
 
 - 👋 Olá, sou @Andreson1010
-- 👀 Estou interessado Ciência de Dados
-- 🌱 Atualmente estou me graduando em ciência da computação, mas focado em Ciencia de Dados.
+
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
